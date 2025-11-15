@@ -3,7 +3,7 @@ name: Docker Workflow
 on:
   push:
     branches:
-      - main
+      - main_
 
 jobs:
   build-and-run:
@@ -24,7 +24,7 @@ jobs:
 ############################### Angular ###############################
       - name: Build Application docker
         run: |
-          docker build -t my-angular-app .
-          # docker run -p 8080:80 my-angular-app
-          docker tag my-angular-app sreedockerhub19/my-angular-app:latest
-          docker push sreedockerhub19/my-angular-app:latest
+          docker build -t my-angular-app-main .
+          # docker run -p 8080:80 my-angular-app-main
+          docker tag my-angular-app-main sreedockerhub19/my-angular-app-main:latest
+          docker push sreedockerhub19/my-angular-app-main:latest

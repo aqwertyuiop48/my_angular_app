@@ -1,13 +1,12 @@
 Versions used:
 
-
 - Angular CLI: 14.1.3
 - Node: 16.10.0
 - Package Manager: npm 7.24.0
 
 Steps to run:
 
-- npm init
+- npm init (remove the extra lines that appear in package.json)
 - npm install
 - ng serve
 
@@ -41,12 +40,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Deployment links:
 
-1. (Master branch): https://my-angular-app-rust.vercel.app/
-2. (Main branch): https://my-angular-q3ir60od6-sreegithub19.vercel.app/
+(Master branch): https://my-angular-app-rust.vercel.app/
+(Main branch): https://my-angular-q3ir60od6-sreegithub19.vercel.app/
 
-Demo:
-https://user-images.githubusercontent.com/55496113/222205692-e5c91b9c-ac81-4d95-8b31-b265b1eb1575.mp4
 
-Git:
+Demo: 
+https://user-images.githubusercontent.com/55496113/222205929-e920b964-548f-43fe-9343-98a7f0401b1a.mp4
 
-- git add . && git commit -m "C" && git push origin master
+
+
