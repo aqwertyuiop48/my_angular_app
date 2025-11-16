@@ -39,10 +39,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-Deployment links:
-
-1. (Master branch): https://my-angular-app-rust.vercel.app/
-2. (Main branch): https://my-angular-q3ir60od6-sreegithub19.vercel.app/
 
 Demo:
 https://user-images.githubusercontent.com/55496113/222205692-e5c91b9c-ac81-4d95-8b31-b265b1eb1575.mp4
